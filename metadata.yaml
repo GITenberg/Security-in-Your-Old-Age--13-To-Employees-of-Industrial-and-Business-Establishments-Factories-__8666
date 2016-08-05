@@ -1,0 +1,26 @@
+_repo: Security-in-Your-Old-Age--13-To-Employees-of-Industrial-and-Business-Establishments-Factories-__8666
+_version: 0.0.1
+creator:
+  author:
+    agent_name: United States. Social Security Board
+    alias: United States. Federal Security Agency. Social Security Board
+    gutenberg_agent_id: '2841'
+    url: http://www.gutenberg.org/2009/agents/2841
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8666'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Informational Service Circular No. 9
+subjects:
+- !lcc 'HD'
+- !lcsh 'United States. Social Security Act'
+- !lcsh 'Social security -- United States'
+- GITenberg
+title: "Security in Your Old Age\r\nTo Employees of Industrial and Business Establishments,\
+  \ Factories, Shops, Mines, Mills, Stores, Offices and Other Places of Business"
+url: http://www.gutenberg.org/ebooks/8666
